@@ -1,7 +1,6 @@
 # App-Dev
  My First Repository
 # My Favorite Movie Series 
-## SCI- FI
 
 
 
